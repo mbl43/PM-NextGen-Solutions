@@ -1375,17 +1375,18 @@ img {
 .technology-area-three {
   position: relative;
   z-index: 1;
+  height: 10em;
   background-color: #070b3b;
 }
 .inner-banner .inner-title {
  
-    padding-top: 60px;
+    padding-top: 55px;
     padding-bottom: 70px;
   position: relative;
   z-index: 1;
 }
 .inner-banner .inner-title h3 {
-  font-size: 45px;
+  font-size: 35px;
   color: #fff;
   font-weight: 600;
   position: relative;

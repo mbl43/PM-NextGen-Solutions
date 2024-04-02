@@ -325,12 +325,15 @@
     top: 0;
     left: 0;
   }
+  .inner-banner{
+    height: 6em;
+  }
   .inner-banner .inner-title {
-    padding-top: 120px;
+    padding-top: 35px;
     padding-bottom: 60px;
   }
   .inner-banner .inner-title h3 {
-    font-size: 30px;
+    font-size: 20px;
   }
   .inner-banner .inner-shape {
     display: none;
