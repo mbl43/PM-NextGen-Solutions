@@ -327,6 +327,8 @@
   }
   .inner-banner{
     height: 6em;
+margin-top:50px;
+padding-bottom:110px;
   }
   .inner-banner .inner-title {
     padding-top: 35px;
